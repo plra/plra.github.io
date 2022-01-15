@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Pablo Aldape. I'm interested in music, math, computer science, statistics, language, finance and some other things. I'm employed as a data scientist (f.k.a. quantitative analyst) at Google, working mainly on YouTube comments. Before that I did applied cryptography at a startup. I graduated from Stanford with degrees in mathematics and statistics.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Aldape is a [place](https://mapcarta.com/18606752) in Basque country. It loosely translates to "at the foot of the mountain."
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Here's my [CV](/assets/cv.pdf).
