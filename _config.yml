@@ -20,12 +20,12 @@
 
 title: plra blog
 email: pseudonym at employer.com
+author: Pablo Aldape
 twitter_username: jack
 github_username: plra
 linkedin_username: plra
 description: >-
-  The blog of plra
-
+  Things that amuse me
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title/
