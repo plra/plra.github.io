@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "A good album from every year"
-date:   2022-01-24
 categories: music
 ---
 
