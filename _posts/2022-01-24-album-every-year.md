@@ -6,9 +6,6 @@ categories: music
 
 Sorry, you got clickbaited again --- not _every_ year. This list starts in 1955, not [1910](/assets/1910.jpg). Here's a good "album" (or any other type of release) from every year since then, presented with minimal commentary.
 
-<details>
-<summary><b>1950s</b></summary>
-
 ## 1955
 
 **Clifford Brown & Max Roach - Clifford Brown & Max Roach** (Hard Bop)
@@ -38,10 +35,6 @@ Legendary recording. Touches even philistines like me.
 **Ornette Coleman - The Shape of Jazz to Come** (Free Jazz?)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kcslwKxCTR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Lots of incredibly good and/or famous jazz albums this year. Let's go with an odd one (that inspired a lot of dumb album titles in unrelated genres).
-</details>
-
-<details>
-<summary><b>1960s</b></summary>
 
 ## 1960
 
@@ -103,11 +96,6 @@ Wildly impactful "your fav artist's fav artist" type band, peerless then and now
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oNY6UiN_RG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Spine-tingling vocals, literary lyrics, lush arrangements, great hair. Love both eras of Scott. RIP an absolute king.
 
-</details>
-
-<details>
-<summary><b>1970s</b></summary>
-
 ## 1970
 
 **Third Ear Band - Third Ear Band** (???)
@@ -167,11 +155,6 @@ Jandek goes gospel, or something. Sparse, spectral, raw. 2013 pick progenitor.
 **Pylon - Cool / Dub** (New Wave Dance Punk)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wdo3mw0Rx7Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Punchy bass-driven dance punk with manic half-controlled vocals.
-
-</details>
-
-<details>
-<summary><b>1980s</b></summary>
 
 ## 1980
 
@@ -235,11 +218,6 @@ I think this is an RYM meme album, but it's worth the hype. Macedonian Orthodox 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LjLFMCbndAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Norwegian Cocteau Twins worship with a bit of a darkwave vibe. Otherworldly soaring vocals.
 
-</details>
-
-<details>
-<summary><b>1990s</b></summary>
-
 ## 1990
 
 **The Chameleons - Tony Fletcher Walked on Water.... La La La La La-La La-La-La** (Post-Punk)
@@ -299,11 +277,6 @@ Titanium-shell heatseeking DnB missile. Genre peak.
 **Secret Stairways - Turning Point** (Dungeon Synth)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E9R-vzIe8x0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Lush, patient soundscapes full of mystery and brimming with emotion. Cheap ticket to a distant realm.
-
-</details>
-
-<details>
-<summary><b>2000s</b></summary>
 
 ## 2000
 
@@ -365,11 +338,6 @@ Unique in that it both relaxes me and instills a potent sense of dread. More pun
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VBICPCU9oW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 I'm a big fan of any projects with lyrics about both smoking weed and killing people (simulateously is a bonus), so naturally I rock with Evil Pimp. Simple, effective, laid back yet propulsive tracks with some strong features and a life lesson or two.
 
-</details>
-
-<details>
-<summary><b>2010s</b></summary>
-
 ## 2010
 
 **Dub One - Wray / It Was Destined to Happen** (Drum & Bass)
@@ -430,11 +398,6 @@ Patient pastoral jams from the crafty Swedes behind International Harvester and 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xlymJ14I3HY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 I felt like Hank Hill the first time I heard this and immediately knew it was special.
 
-</details>
-
-<details>
-<summary><b>2020s</b></summary>
-
 ## 2020
 
 **Zeroxxuit - Broken** (???)
@@ -450,5 +413,3 @@ Sounds of the streets, sidewalks and weather of Lagos, set atop sparse synth mel
 ## 2022
 
 Still listening!
-
-</details>
