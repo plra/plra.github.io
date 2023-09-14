@@ -9,16 +9,24 @@ Sorry, you got clickbaited again --- not _every_ year. This list starts in 1955,
 ## 1955
 
 **Clifford Brown & Max Roach - Clifford Brown & Max Roach** (Hard Bop)
+
+<lite-youtube videoid="iDH9xnRXbC0"></lite-youtube>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iDH9xnRXbC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Charging swinging jazz with virtuoso percussion.
 
 ## 1956
 
 **Ravi Shankar - Three Ragas** (Hindustani Classical Music)
+
+<lite-youtube videoid="aNKTWhcw5nI"></lite-youtube>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aNKTWhcw5nI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 I really hope I still would have run into this if not for the George Harrison connection.
 
 ## 1957
+
+<lite-youtube videoid="VHybaplbBmY"></lite-youtube>
 
 **Jackson C. Frank - Howell Sessions** (Guy With Guitar)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VHybaplbBmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
