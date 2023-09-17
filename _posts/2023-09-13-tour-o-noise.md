@@ -4,7 +4,7 @@ title:  "Tour o' noise"
 categories: music
 ---
 
-I cannot for the life of me find the source of this quote, my favorite description of any musical genre, but here it is: "Noise has got to be the only genre that has more artists than fans." If that doesn't pique your interest, what will? This is a brief intro to noise --- defined broadly to include power electronics, the abrasive end of industrial, and some even more blasphemous corners some noisefreaks would surely contest --- through some of the tracks I've most enjoyed over the years.
+I cannot for the life of me find the source of this quote, my favorite description of any musical genre, but here it is: "Noise has got to be the only genre that has more artists than fans." If that doesn't pique your interest, what will? This is a brief intro to noise --- defined broadly to include power electronics, the abrasive end of industrial, and some even more blasphemous corners --- through some of the tracks I've most enjoyed over the years.
 
 **Kevin Drumm - Hitting the Pavement** (_Sheer Hellish Miasma_, 2007)
 <lite-youtube videoid="4McQmtLx0HA"></lite-youtube>
