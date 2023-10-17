@@ -8,7 +8,7 @@ I cannot for the life of me find the source of this quote, my favorite descripti
 
 **Kevin Drumm - Hitting the Pavement** (_Sheer Hellish Miasma_, 2007)
 <lite-youtube videoid="4McQmtLx0HA"></lite-youtube>
-This record is a great choice for a first encounter with noise music if I do say so myself. Patient, narrative, dramatic and sure to tickle your cochleae.
+A great choice for a first encounter with noise music if I do say so myself. Patient, dramatic and sure to tickle your cochleae.
 
 **Prurient - Military Road** (_Pleasure Ground_, 2006)
 <lite-youtube videoid="1XRQBHNDXmE"></lite-youtube>
@@ -16,7 +16,7 @@ Ringing ears, artillery fire and some psychopath screaming over the combat radio
 
 **White Suns - Clairvoyant** (_Totem_, 2014)
 <lite-youtube videoid="wARjfnThpk8"></lite-youtube>
-Yeah, it's noise rock (yawn!!!!!!) but very few rockers summon as substantial an offering to the entropy gods as White Suns. Lyrics also very #relatable.
+Yeah, it's noise rock (yawn!!!!!!) but few rockers summon as substantial an offering to the entropy gods as White Suns. Lyrics also very #relatable.
 
 **Aaron Dilloway - Body Chaos** (_Modern Jester_, 2011)
 <lite-youtube videoid="AWarKvO4-h0"></lite-youtube>
@@ -86,7 +86,7 @@ Clipping industrial savagery. Some vinyl reissues come with a death certificate 
 
 **Luceran Lycan Haunt - IV. Moonlit Hex...** (_Arcane Arts Bleach the Skulls of the Forbidden_, 2017)
 <lite-youtube videoid="KM5CgleC4vU" params="start=336"></lite-youtube>
-Dreadful union of trve black metal and noise. Better queue up some cute animal videos afterward.
+Dreadful union of trve black metal and noise. Better cue up some cute animal videos afterward.
 
 **Yellow Swans - Going Places** (_Going Places_, 2010)
 <lite-youtube videoid="-Fa-vLkj1Fo"></lite-youtube>
