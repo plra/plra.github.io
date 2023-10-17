@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tour o' noise"
+title: "Tour o' noise"
 categories: music
 ---
 

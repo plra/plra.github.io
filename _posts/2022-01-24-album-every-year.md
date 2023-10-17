@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A good album from every year"
+title: "A good album from every year"
 categories: music
 ---
 
