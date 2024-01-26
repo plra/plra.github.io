@@ -6,6 +6,8 @@ categories: music
 
 This was fun to do for [noise]({% link _posts/2023-09-13-tour-o-noise.md %}), so why not take a stab at electro?
 
+As a genre, I find electro to be particularly slippery and porous. I understand that there's a direct lineage from Ryuichi Sakamoto to DJ Stingray, with a clear technological invariant in the TR-808, but there feels to be a spiritual chasm between the two that is particularly wide for a dance substyle. In this post I begin somewhere in the middle of the chasm, after electro made it to Detroit and grafted onto that city's anticommercial futurist DNA. As a consequence, these tracks are much more techno than they are hip hop. I will more fully explore the sister branch in the near future!
+
 **Drexciya - Positron Island** (_Bubble Metropolis_, 1993)
 <lite-youtube videoid="DU9tef5tXgY"></lite-youtube>
 Drexciya is an artist any student of dance music needs to know --- because they're wildly influential, yes, but moreover because the music kicks ass. Every EP from 1992 to 1996 is essential!
