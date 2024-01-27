@@ -5,6 +5,8 @@ github_username: plra
 linkedin_username: plra
 description: >-
   Things that amuse me
+tagline: >-
+  A blog about music, math, computer science, statistics, and anything else I feel like writing about.
 baseurl: ""
 url: ""
 permalink: /:title/
@@ -14,6 +16,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
